@@ -1,0 +1,22 @@
+header { 
+background-color: #244751;
+color: #E8FDFF;
+}
+
+body {
+    background-color: cornsilk;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.fantasy {
+    font-family: aladin;
+}
